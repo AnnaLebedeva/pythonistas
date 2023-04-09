@@ -14,15 +14,16 @@
 
 [Random Forest]
 
-(ссылка на Catboost)
+[Catboost]
 
-**RuBERT fine-tuning**:
-
-Модель можно скачать по [ссылке](https://disk.yandex.ru/d/FuF3wHpkyTxcJg)
+[RuBERT fine-tuning] Модель можно скачать по [ссылке](https://disk.yandex.ru/d/FuF3wHpkyTxcJg)
 
 # Присваивание категорий:
-Для этой задачи мы обучили RandomForestClassifier (TfIdf в качестве векторайзера).
+Для этой задачи мы обучили [RandomForestClassifier] (TfIdf в качестве векторайзера).
 Модель можно скачать по [ссылке](https://disk.yandex.ru/d/80Q9qc8c7efGyg).
 
 
 [Random Forest]: <https://github.com/AnnaLebedeva/badass/blob/main/RF_classifier_sentiment.ipynb>
+[Catboost]: <https://github.com/AnnaLebedeva/pythonistas/blob/master/eda%2Bcatboost.ipynb>
+[RuBERT fine-tuning]: <https://github.com/AnnaLebedeva/pythonistas/blob/master/fine-tuning.ipynb>
+[RandomForestClassifier]: <https://github.com/AnnaLebedeva/pythonistas/blob/master/categories_prediction.ipynb>
